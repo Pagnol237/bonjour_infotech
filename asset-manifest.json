@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d793fefb.css",
+    "main.js": "/static/js/main.a2cf2504.js",
+    "static/js/787.3cbdb9e5.chunk.js": "/static/js/787.3cbdb9e5.chunk.js",
+    "static/media/landing_page1.jpg": "/static/media/landing_page1.a30e77629464e781667c.jpg",
+    "static/media/landing_page.png": "/static/media/landing_page.ce5b019cc7b76ad56109.png",
+    "static/media/digital-campaign.png": "/static/media/digital-campaign.c7d84621ee6d172b3021.png",
+    "static/media/domain-registration.png": "/static/media/domain-registration.ab27f5eb773825fe330e.png",
+    "static/media/web-hosting.png": "/static/media/web-hosting.3bdac8824423d566d60e.png",
+    "static/media/graphic-design.png": "/static/media/graphic-design.bc53b9728aebf68b589c.png",
+    "static/media/app-development.png": "/static/media/app-development.9aa0a76c65a0b6b55014.png",
+    "static/media/seo.png": "/static/media/seo.43235ad2f6c8fb286ab8.png",
+    "static/media/software.png": "/static/media/software.4b8deb16fcab7476e318.png",
+    "static/media/web-design.png": "/static/media/web-design.de39ce51520e8972d98e.png",
+    "static/media/ui.png": "/static/media/ui.251ab7371a3f25240646.png",
+    "index.html": "/index.html",
+    "main.d793fefb.css.map": "/static/css/main.d793fefb.css.map",
+    "main.a2cf2504.js.map": "/static/js/main.a2cf2504.js.map",
+    "787.3cbdb9e5.chunk.js.map": "/static/js/787.3cbdb9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d793fefb.css",
+    "static/js/main.a2cf2504.js"
+  ]
+}
